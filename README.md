@@ -101,7 +101,7 @@ print("DFS Traversal Path:", traversed_path)
 ## Sample Input
 ![image](https://github.com/user-attachments/assets/6b8a1087-fb53-4d5e-8c91-b36166cdd226)
 
-Sample Output
+## Sample Output
 ![image](https://github.com/user-attachments/assets/80609c6d-8b1d-4010-8c25-55bdee9dd501)
 
 <h3>Result:</h3>
