@@ -89,11 +89,11 @@ print("DFS Traversal Path:", traversed_path)
 
 ```
 
-<hr>
-<h3>Sample Input</h3>
+
+## Sample Input
 ![image](https://github.com/user-attachments/assets/6ef88f45-ce74-4da6-9d8d-01c45119aa7b)
 
-<h3>Sample Output</h3>
+## Sample Output
 ![image](https://github.com/user-attachments/assets/ae7dbae2-6576-4d73-ae3d-2fc5c6114067)
 
 
