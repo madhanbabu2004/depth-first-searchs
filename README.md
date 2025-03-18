@@ -97,21 +97,13 @@ print("DFS Traversal Path:", traversed_path)
 ![image](https://github.com/user-attachments/assets/ae7dbae2-6576-4d73-ae3d-2fc5c6114067)
 
 
-<hr>
-<h3>Sample Input</h3>
-<hr>
-5 5 <BR>
-0 1 <BR>
-0 2 <BR>
-0 3 <BR>
-2 3 <BR>
-2 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
 
-<hr>
+## Sample Input
+![image](https://github.com/user-attachments/assets/6b8a1087-fb53-4d5e-8c91-b36166cdd226)
+
+Sample Output
+![image](https://github.com/user-attachments/assets/80609c6d-8b1d-4010-8c25-55bdee9dd501)
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
